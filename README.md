@@ -22,6 +22,7 @@ be used to diagnose a variety of cardiac diseases.
 ![image](https://user-images.githubusercontent.com/61350640/199831134-b76ba170-89ec-43a8-b60f-5b2afc648a10.png)
 
 ### In-Lab:
+![f7584bfe-caec-40b3-be9c-19fdd9203c34](https://github.com/user-attachments/assets/2f03bebc-2416-460c-8112-d8b521a9504f)
 ![image](https://user-images.githubusercontent.com/61350640/199831245-3262e40d-15d0-4bd2-b069-f7a854d78bfd.png)
 
 #### Another Scale:
